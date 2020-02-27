@@ -109,7 +109,7 @@ public class FirstSelectionProgram {
             System.out.println("You are saving: "+ moneySaved);
             System.out.println("Your total is: "+moneyActSpent);
         }
-        
+        Input.close();
     }
     
 }
